@@ -1,8 +1,8 @@
 ### Olá esta é minha página pessoal do GitHub 👋
+<br>
 
 
-Here are some ideas to get you started:
-
+<br>
 - 🔭 No momento estou trabalhando no #7DaysofCode da ALURA
 - 🌱 No momento estou aprendendo html,css,git e github, e Python
 - 👯 No momento não estou colaborando em nenhum repositório por medo ou vergonha de não saber nada.
