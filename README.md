@@ -5,4 +5,4 @@
 - 👯 No momento não estou colaborando em nenhum repositório por medo ou vergonha de não saber nada.
 - 🤔 Preciso para r de procrastinar e colocar em prática o pouco que já sei.
 - 💬 Ask me about ...
-- 📫 Sobre mim  [http://me](https://vaporhole.xyz/~maxmilla/)https://vaporhole.xyz/~maxmilla/
+- 📫 Sobre mim (https://vaporhole.xyz/~maxmilla/)https://vaporhole.xyz/~maxmilla/
